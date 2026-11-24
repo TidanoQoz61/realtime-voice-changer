@@ -1,0 +1,26 @@
+{
+  "module": "realtime-voice-changer",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "engine": {
+      "enabled": true
+    },
+    "io": {
+      "enabled": true
+    },
+    "presets": {
+      "enabled": true
+    },
+    "gui": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
