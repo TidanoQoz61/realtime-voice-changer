@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: realtime-voice-changer, voice-changer, realtime, discord, rvc, audio, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+voice-changer realtime discord rvc audio live-voice-changer voice-changer-rt realtime-voice-changer windows portable prebuilt x64 free download
+related: voice-changer, realtime, discord, rvc, audio
